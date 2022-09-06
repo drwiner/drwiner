@@ -2,8 +2,6 @@
 
 I'm a machine learning engineer and full stack developer interested in Machine Learning product development and R&D, applying my research background in natural language processing, automated planning, and human-computer interaction to product architecture, development.
 
-Currently, I develop state-of-the-art AI models at conversational AI market leader Kasisto (since 2018) that transform previously unused data into new competitive edges for the company, and I manage multiple projects for integrating models into our platform so they are production-ready.
-
 
 <!--
 **drwiner/drwiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
